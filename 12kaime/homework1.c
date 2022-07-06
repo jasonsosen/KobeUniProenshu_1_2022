@@ -3,7 +3,7 @@
 
 void update(   ){
     // x, y, z を更新する式を書く．
-    int nx, ny, nz;
+    double nx, ny, nz;
     nx = ;
     ny = ;
     nz = ;
