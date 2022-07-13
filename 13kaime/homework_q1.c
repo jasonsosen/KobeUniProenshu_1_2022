@@ -18,7 +18,7 @@ int main(void){
    int i,j;
    int v  ={1,2};//2次元のベクトルを保存するための，１次元の配列を宣言せよ．
    int w  ={3,4};//2次元のベクトルを保存するための，１次元の配列を宣言せよ．
-   matvec(v, w, 2);
+   swap(v, w, 2);
    printf("%d, %d\n", v[0], v[1]);
    printf("%d, %d\n", w[0], w[1]);
    return 0; 
